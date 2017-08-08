@@ -34,8 +34,9 @@ h6 {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
-    color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    color: #000;
+    font-family: 'Cagliostro', sans-serif;
+    background: url(../img/banner.jpg) no-repeat center center;
     background-size: cover;
 }
 
@@ -53,7 +54,7 @@ h6 {
 
 .intro-divider {
     width: 400px;
-    border-top: 1px solid #f8f8f8;
+    border-top: 1px solid #000;
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
@@ -115,7 +116,7 @@ h6 {
 
 .banner {
     padding: 100px 0;
-    color: #f8f8f8;
+    color: #000;
     background: url(../img/banner-bg.jpg) no-repeat center center;
     background-size: cover;
 }
